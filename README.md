@@ -16,10 +16,6 @@ Create a report for Trigon that analyses their data for the year 2016 and predic
 - Items not stored in inventory did not have an item number, special order items were not included in inventory and not billed as invoice.
 - Country details were missing for most of the products.
 - Item numbers were alphanumeric hence it was difficult to parse them.
-## Data Report
-- Total sales made monthly and yearly for the year 2016.
-
-![total_sales_monthly_quarterly](https://cloud.githubusercontent.com/assets/24817774/22900721/5b751484-f1fd-11e6-890d-90a4f5d25090.PNG)
 
 ## Data Cleansing Soutions
 - Removed services that were listed as line items and assigned unique identifiers to all items.
@@ -36,4 +32,19 @@ Balance (Unnecessary)
 Freight, EREF, Credit or No Charge Adj, Personal, Misc, SledgeHammer
 
 ## Data Report
-- Total sales done by the sales representatives
+
+- After cleaning the final data set we created an SSAS package on SQL Server and connected that to Tableau 10.1 cloud to create visualized data.
+
+- Total sales made monthly and yearly for the year 2016.
+
+![total_sales_monthly_quarterly](https://cloud.githubusercontent.com/assets/24817774/22900721/5b751484-f1fd-11e6-890d-90a4f5d25090.PNG)
+
+- Total sales done by the sales representatives.
+
+![sales_rep_total_sales](https://cloud.githubusercontent.com/assets/24817774/22901312/35655f40-f1ff-11e6-93eb-8e19cfe14a9f.PNG)
+
+- Trigon Corporation's most frequent patronisers.
+
+![most_frequent_patronisers](https://cloud.githubusercontent.com/assets/24817774/22901473/db462584-f1ff-11e6-9e73-df2e7cfaeec1.PNG)
+
+
