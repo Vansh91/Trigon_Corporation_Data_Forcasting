@@ -1,4 +1,4 @@
-# Trigon_Corporation_Data_Forcasting
+# Trigon_Corporation_Data_Forecasting
 Create a report for Trigon that analyses their data for the year 2016 and predicts their 2017 sales strategy.
 
 - we created a report to forcast Trigon Corporation's profit increase percentage, representative performance, warehouse purchase and product sales for 2016 fiscal year.
