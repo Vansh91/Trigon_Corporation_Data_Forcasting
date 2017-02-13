@@ -39,15 +39,15 @@ Freight, EREF, Credit or No Charge Adj, Personal, Misc, SledgeHammer
 
 ![dashboard](https://cloud.githubusercontent.com/assets/24817774/22901795/da324884-f200-11e6-8cf2-f7d69842654b.PNG)
 
-- Total sales made monthly and yearly for the year 2016.
+- Total sales made monthly and yearly for the year 2016
 
-![total_sales_monthly_quarterly](https://cloud.githubusercontent.com/assets/24817774/22900721/5b751484-f1fd-11e6-890d-90a4f5d25090.PNG)
+![total_sales_monthly_quarterly](https://cloud.githubusercontent.com/assets/24817774/22902285/8c2355aa-f202-11e6-8200-ea06f7c6ad21.PNG)
 
-- Total sales done by the sales representatives.
+- Total sales done by the sales representatives
 
 ![sales_rep_total_sales](https://cloud.githubusercontent.com/assets/24817774/22901312/35655f40-f1ff-11e6-93eb-8e19cfe14a9f.PNG)
 
-- Trigon Corporation's most frequent patronisers.
+- Trigon Corporation's most frequent patronisers
 
 ![most_frequent_patronisers](https://cloud.githubusercontent.com/assets/24817774/22901473/db462584-f1ff-11e6-9e73-df2e7cfaeec1.PNG)
 
@@ -59,6 +59,28 @@ Freight, EREF, Credit or No Charge Adj, Personal, Misc, SledgeHammer
 
 ![most_sold_products](https://cloud.githubusercontent.com/assets/24817774/22901815/f7440a02-f200-11e6-8bee-6087d49b0ec9.PNG)
 
-- 
+- Products sold by representatives quarterly and monthly
+
+![products_sold_by_reps_quarterly_monthly](https://cloud.githubusercontent.com/assets/24817774/22901931/5b40565a-f201-11e6-9316-24a8bd658fdb.PNG)
+
+- Sales representative performance by region and zip code
+
+![sales_rep_performance_by_region_zipcode](https://cloud.githubusercontent.com/assets/24817774/22901982/7f745224-f201-11e6-8fed-d19380d57ec8.PNG)
+
+- Items sold per quarter
+
+![items_sold_per_quarter](https://cloud.githubusercontent.com/assets/24817774/22902095/e46d3632-f201-11e6-9878-3e8df2f2be55.PNG)
+
+- Revenue generated from analysis and samples
+
+![revenue_generated_from_analysis_and_samples](https://cloud.githubusercontent.com/assets/24817774/22902121/08028520-f202-11e6-9e02-17f00ba92a29.PNG)
+
+- Trigon Storyboard
+
+![story_board](https://cloud.githubusercontent.com/assets/24817774/22902154/1c09ae72-f202-11e6-87ce-cf09c226c911.PNG)
 
 
+## Recommendations
+- Create a naming convention to distinguish between inventory and non inventory items
+- Implement Tableau 10.1 cloud -- Get annual subscription and kepp data up to date on the cloud for all employees and representatives to see.
+- Implement MS SQL Server Management Studio in the long term to efficiently manage cumbersome data.
