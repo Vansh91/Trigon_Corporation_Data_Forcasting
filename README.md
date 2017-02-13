@@ -35,6 +35,10 @@ Freight, EREF, Credit or No Charge Adj, Personal, Misc, SledgeHammer
 
 - After cleaning the final data set we created an SSAS package on SQL Server and connected that to Tableau 10.1 cloud to create visualized data.
 
+- Trigon Data Dashboard
+
+![dashboard](https://cloud.githubusercontent.com/assets/24817774/22901795/da324884-f200-11e6-8cf2-f7d69842654b.PNG)
+
 - Total sales made monthly and yearly for the year 2016.
 
 ![total_sales_monthly_quarterly](https://cloud.githubusercontent.com/assets/24817774/22900721/5b751484-f1fd-11e6-890d-90a4f5d25090.PNG)
@@ -46,5 +50,15 @@ Freight, EREF, Credit or No Charge Adj, Personal, Misc, SledgeHammer
 - Trigon Corporation's most frequent patronisers.
 
 ![most_frequent_patronisers](https://cloud.githubusercontent.com/assets/24817774/22901473/db462584-f1ff-11e6-9e73-df2e7cfaeec1.PNG)
+
+- Products sold based on region
+
+![products_sold_based_on_region](https://cloud.githubusercontent.com/assets/24817774/22901733/9edc4294-f200-11e6-9217-788bcb02bba5.PNG)
+
+- Most products sold in 2016 
+
+![most_sold_products](https://cloud.githubusercontent.com/assets/24817774/22901815/f7440a02-f200-11e6-8bee-6087d49b0ec9.PNG)
+
+- 
 
 
